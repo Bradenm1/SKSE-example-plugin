@@ -1,0 +1,6 @@
+﻿  PluginAPI.cpp
+  skse.vcxproj -> C:\Users\brade\Desktop\plugin_example\Debug\skse_d.lib
+  '..' is not recognized as an internal or external command,
+  operable program or batch file.
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: The command "../install "C:\Users\brade\Desktop\plugin_example\skse\" "C:\Users\brade\Desktop\plugin_example\Debug\skse_d.lib"
+C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppCommon.targets(133,5): error MSB3073: :VCEnd" exited with code 9009.
